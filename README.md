@@ -1,2 +1,0 @@
-# Promoter
-Code and Dataset
